@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Sparkle",
+  "base_artist": "ARASHI",
+  "createdAt": "2026-02-12T09:17:26.356291Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sparkle",
+      "artist": "Cameo",
+      "has_synced": false,
+      "path": "select/01_Sparkle_Cameo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sparkle",
+      "artist": "Cameo",
+      "has_synced": true,
+      "path": "select/02_Sparkle_Cameo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Penny Sparkle",
+      "artist": "Blonde Redhead",
+      "has_synced": true,
+      "path": "select/03_Penny_Sparkle_Blonde_Redhead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sparkle",
+      "artist": "Blue Hawaii",
+      "has_synced": false,
+      "path": "select/04_Sparkle_Blue_Hawaii.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sparkle",
+      "artist": "Camp Lo",
+      "has_synced": false,
+      "path": "select/05_Sparkle_Camp_Lo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sparkle - Mr. Midnight Mix",
+      "artist": "Camp Lo",
+      "has_synced": false,
+      "path": "select/06_Sparkle_-_Mr._Midnight_Mix_Camp_Lo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sparkle",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/07_Sparkle_No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sparkle",
+      "artist": "Afterhours",
+      "has_synced": false,
+      "path": "select/08_Sparkle_Afterhours.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sparkle",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/09_Sparkle_Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sparkle",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/10_Sparkle_Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sparkle City",
+      "artist": "Shuggie Otis",
+      "has_synced": false,
+      "path": "select/11_Sparkle_City_Shuggie_Otis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sparkle",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_Sparkle_嵐.txt"
+    }
+  ]
+}
